@@ -1,0 +1,32 @@
+{
+  "name": "canvas-sketches",
+  "version": "1.0.0",
+  "description": "Daily creative coding sketches in JavaScript using Canvas Sketch",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaviles/canvas-sketches.git"
+  },
+  "keywords": [
+    "creative-coding",
+    "generative-coding",
+    "canvas-sketch"
+  ],
+  "author": "Edgardo Avilés <eaviles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eaviles/canvas-sketches/issues"
+  },
+  "homepage": "https://github.com/eaviles/canvas-sketches#readme",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-util": "^1.10.0",
+    "eslint": "^7.8.1",
+    "eslint-config-lifion": "^1.4.0",
+    "prettier": "^2.1.1"
+  }
+}

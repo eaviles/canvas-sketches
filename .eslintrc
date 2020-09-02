@@ -1,0 +1,6 @@
+{
+  "extends": "lifion",
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
