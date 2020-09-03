@@ -27,6 +27,7 @@
     "canvas-sketch-util": "^1.10.0",
     "eslint": "^7.8.1",
     "eslint-config-lifion": "^1.4.0",
+    "nice-color-palettes": "^3.0.0",
     "prettier": "^2.1.1"
   }
 }
